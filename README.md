@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shyamkumar1507
-- 👀 I’m interested in ... Javascript, React JS, HTML, CSS, Algorithms, Data Structures
-- 🌱 I’m currently learning ...Javascript, React JS, HTML, CSS, Algorithms, Data Structures
-- 💞️ I’m looking to collaborate on ...Javascript projects
+- 👀 I’m interested in ... Java, Spring, SpringBoot, Javascript, React JS, HTML, CSS, Algorithms, Data Structures
+- 💞️ I’m looking to collaborate on ... Java, SpringBoot, ReactJS projects
 - 📫 How to reach me ...shyamkumar1507@gmail.com
 
 <!---
